@@ -1,3 +1,9 @@
 h2{
     color:red;
 }
+.apart h2 {
+    color: green;
+}
+.apart p{
+    color: indigo;
+}
